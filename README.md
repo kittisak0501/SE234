@@ -130,3 +130,9 @@ Emoji :
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+
+## Panadon Saikaew ##
+    Nickname: Tar
+    Age: 20
+    Faculty: CAMT
+    Student ID: 632115029
