@@ -131,3 +131,14 @@ Emoji :
 
 :mask:
 
+## Panadon Saikaew ##
+    Nickname: Tar
+    Age: 20
+    Faculty: CAMT
+    Student ID: 632115029
+
+## Burussakorn Ruangon ##
+    Nickname: Korn
+    Age: 20
+    Faculty: CAMT
+    Student ID: 632115028
